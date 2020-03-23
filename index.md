@@ -9,6 +9,8 @@
 [Visit Fresh Direct Dashboard](https://cptidiot.shinyapps.io/FreshDirect/) 
 
 <img src="images/FD_thumbnail.png?raw=true"/>
+
+
 ---
 
 **Education Quality Assessment Tool**
