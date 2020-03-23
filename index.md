@@ -5,7 +5,7 @@
 ### Business Dashboard
 
 [Fresh Direct]('www.haoting.us')
-[link_test](../haotingz.us)
+<a href="haotingz.us" title="About Me">About Me</a>
 <img src="images/FD_thumbnail.png?raw=true"/>
 
 
