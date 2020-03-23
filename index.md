@@ -4,7 +4,7 @@
 
 ### Business Dashboard
 
-[Fresh Direct](/sample)
+[Fresh Direct](/sample_page)
 <img src="images/FD_thumbnail.png?raw=true"/>
 
 
