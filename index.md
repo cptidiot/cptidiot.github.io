@@ -4,8 +4,8 @@
 
 ### Business Dashboard
 
-[Fresh Direct]('www.haoting.us') 
----
+[Fresh Direct]('https://cptidiot.shinyapps.io/FreshDirect/') 
+
 <a href="https://cptidiot.shinyapps.io/FreshDirect/" title="Go to W3Schools HTML section">Visit My Dashboard Here!</a>
 
 
