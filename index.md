@@ -4,7 +4,7 @@
 
 ### Business Dashboard
 
-[Fresh Direct](/haotingz.us)
+[Fresh Direct](/sample)
 <img src="images/FD_thumbnail.png?raw=true"/>
 
 
