@@ -5,7 +5,7 @@
 ### Business Dashboard
 
 [Fresh Direct]('www.haoting.us')
-[link_test](haotingz.us)
+[link_test](../haotingz.us)
 <img src="images/FD_thumbnail.png?raw=true"/>
 
 
