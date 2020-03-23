@@ -6,7 +6,7 @@
 
 [Fresh Direct]('www.haoting.us') 
 ---
-<a href="https://www.haotingz.us" title="Go to W3Schools HTML section">Visit our HTML Tutorial</a>
+<a href="https://cptidiot.shinyapps.io/FreshDirect/" title="Go to W3Schools HTML section">Visit My Dashboard Here!</a>
 
 
 
