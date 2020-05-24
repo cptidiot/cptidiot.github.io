@@ -7,7 +7,7 @@
 **Covid-19 Dashboard and Dynamic SIR Model**
 
 [Visit Covid-19 Dashboard](https://covid-19-proj.herokuapp.com)
-<img src="images/covid-19.png?raw=true"/>
+<img src="images/covid.png?raw=true"/>
 
 
 **Fresh Direct Business Dashboard**
