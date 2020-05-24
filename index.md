@@ -4,6 +4,11 @@
 
 ### Dashboard
 
+**Covid-19 Dashboard and Dynamic SIR Model**
+
+[Visit Covid-19 Dashboard](https://covid-19-proj.herokuapp.com)
+
+
 **Fresh Direct Business Dashboard**
 
 [Visit Fresh Direct Dashboard](https://cptidiot.shinyapps.io/FreshDirect/) 
